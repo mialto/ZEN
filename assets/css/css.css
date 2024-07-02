@@ -1,0 +1,31 @@
+.errores{
+    color:red;
+}
+.dropdown-menu .open{
+    z-index:10000 !important;
+    background-color: red;
+}
+
+.panelicon{
+    font-size: 40px;
+}
+
+a{
+    color:#0c3c64;
+}
+
+a:hover{
+    color: #fecc0d;
+}
+
+.logo-cabecera{
+    width:50px;
+}
+
+.separador{
+    margin:0 auto;
+    width:100%;
+    height:2px;
+    background: #f6f6f6;
+    box-shadow: 2px 2px 2px #1a1a1a;
+}

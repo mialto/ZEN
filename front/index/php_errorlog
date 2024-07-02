@@ -1,0 +1,1 @@
+[20-Mar-2024 07:59:08 UTC] PHP Fatal error:  Cannot redeclare obtenerDatosUsuario() (previously declared in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php:319) in /home/customer/www/franciscos182.sg-host.com/public_html/front/index/functions/functions.php on line 5

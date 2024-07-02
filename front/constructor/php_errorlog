@@ -1,0 +1,102 @@
+[21-Feb-2024 13:15:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/functions/functions.php:3
+Stack trace:
+#0 /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php(169): listasMusica()
+#1 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/functions/functions.php on line 3
+[21-Feb-2024 13:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/functions/functions.php:3
+Stack trace:
+#0 /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php(169): listasMusica()
+#1 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/functions/functions.php on line 3
+[21-Feb-2024 13:19:26 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:19:33 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:19:58 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:21:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:22:10 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:23:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[21-Feb-2024 13:23:19 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php on line 170
+[23-Feb-2024 12:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function guardarCeremonia() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/insertarevento.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/insertarevento.php on line 126
+[26-Feb-2024 09:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function guardarCoctel() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/insertarevento.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/insertarevento.php on line 157
+[05-Mar-2024 08:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function controlEvento() in /home/customer/www/franciscos182.sg-host.com/public_html/front/layout/layout.php:50
+Stack trace:
+#0 /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/index.php(7): navegador()
+#1 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/layout/layout.php on line 50
+[05-Mar-2024 09:07:11 UTC] PHP Fatal error:  Cannot redeclare evento() (previously declared in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php:4) in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php on line 4
+[05-Mar-2024 09:08:32 UTC] PHP Fatal error:  Cannot redeclare evento() (previously declared in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php:4) in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php on line 4
+[18-Mar-2024 06:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 06:28:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 06:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 06:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 06:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerDatosUsuario() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 9
+[18-Mar-2024 07:21:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 79
+[18-Mar-2024 07:58:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 146
+[18-Mar-2024 08:00:28 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/customer/www/franciscos182.sg-host.com/public_html/app/functions.php on line 204
+[18-Mar-2024 09:11:19 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 204
+[19-Mar-2024 08:17:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/modificarevento.php on line 52
+[19-Mar-2024 08:23:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/modificarevento.php on line 52
+[19-Mar-2024 08:23:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/modificarevento.php on line 52
+[19-Mar-2024 08:26:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/modificarevento.php on line 52
+[19-Mar-2024 08:30:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/modificarevento.php on line 52
+[20-Mar-2024 08:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function datosEvento() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 21
+[20-Mar-2024 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function datosEvento() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 21
+[20-Mar-2024 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function datosEvento() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 21
+[20-Mar-2024 08:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function datosEvento() in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/front/constructor/editarevento.php on line 21

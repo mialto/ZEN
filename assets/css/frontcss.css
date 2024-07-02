@@ -1,0 +1,39 @@
+a{color:#a9011a}
+
+a:hover{color:#ff7753}
+
+.boton{
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.boton:hover{
+    background-color: #cccccc;
+}
+.checkbox-form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkbox-form input[type="checkbox"] {
+    margin-right: 5px; /* Ajusta el margen entre los checkboxes y los labels */
+}
+
+.error{color:red;}
+
+.campo{
+    margin: 10px 0;
+}
+
+.input_login{
+    width:100%;
+    padding:8px;
+    border:1px solid #1a1a1a;
+    border-radius: 8px;
+}
+.logo_cabecera{
+	width:50px;
+}
+
+

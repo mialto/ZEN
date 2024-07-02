@@ -1,0 +1,4 @@
+[20-Mar-2024 09:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function listarUltimosEventos() in /home/customer/www/franciscos182.sg-host.com/public_html/control/panel/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/franciscos182.sg-host.com/public_html/control/panel/index.php on line 21
